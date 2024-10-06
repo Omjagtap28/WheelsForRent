@@ -1,0 +1,877 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\OM JAGTAP\Desktop\SampleProject</_PublishTargetUrl>
+    <History>True|2024-08-27T09:56:13.8290448Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>05/01/2024 12:13:21</publishTime>
+    </File>
+    <File Include="Admin/alllogo2.png">
+      <publishTime>01/03/2024 17:37:29</publishTime>
+    </File>
+    <File Include="Admin/arrl.png">
+      <publishTime>01/03/2024 17:37:29</publishTime>
+    </File>
+    <File Include="Admin/arrr.png">
+      <publishTime>01/03/2024 17:37:29</publishTime>
+    </File>
+    <File Include="Admin/a_cars.aspx">
+      <publishTime>05/01/2024 01:31:55</publishTime>
+    </File>
+    <File Include="Admin/a_contacts.aspx">
+      <publishTime>05/02/2024 03:20:04</publishTime>
+    </File>
+    <File Include="Admin/a_customers.aspx">
+      <publishTime>05/02/2024 03:23:09</publishTime>
+    </File>
+    <File Include="Admin/a_feedback.aspx">
+      <publishTime>04/08/2024 05:01:07</publishTime>
+    </File>
+    <File Include="Admin/a_home.aspx">
+      <publishTime>04/08/2024 04:52:50</publishTime>
+    </File>
+    <File Include="Admin/a_script.js">
+      <publishTime>04/05/2024 00:26:18</publishTime>
+    </File>
+    <File Include="Admin/a_services.aspx">
+      <publishTime>04/08/2024 05:01:43</publishTime>
+    </File>
+    <File Include="Admin/bgcar2.jpg">
+      <publishTime>01/03/2024 17:37:29</publishTime>
+    </File>
+    <File Include="Admin/canvasjs.min.js">
+      <publishTime>04/04/2024 23:58:06</publishTime>
+    </File>
+    <File Include="Admin/car2.jpg">
+      <publishTime>01/03/2024 17:37:29</publishTime>
+    </File>
+    <File Include="Admin/gaugeChart.js">
+      <publishTime>04/05/2024 16:03:15</publishTime>
+    </File>
+    <File Include="Admin/icons8-facebook-48%281%29.png">
+      <publishTime>01/15/2024 16:56:17</publishTime>
+    </File>
+    <File Include="Admin/icons8-instagram-48.png">
+      <publishTime>01/15/2024 16:56:17</publishTime>
+    </File>
+    <File Include="Admin/icons8-twitter-48.png">
+      <publishTime>01/15/2024 16:56:17</publishTime>
+    </File>
+    <File Include="Admin/icons8-whatsapp-48.png">
+      <publishTime>01/15/2024 16:56:17</publishTime>
+    </File>
+    <File Include="Admin/icons8-youtube-48.png">
+      <publishTime>01/15/2024 16:56:17</publishTime>
+    </File>
+    <File Include="Admin/lock-icon.png">
+      <publishTime>01/03/2024 17:37:29</publishTime>
+    </File>
+    <File Include="Admin/logout.png">
+      <publishTime>01/18/2024 18:00:12</publishTime>
+    </File>
+    <File Include="Admin/script.js">
+      <publishTime>04/08/2024 03:58:41</publishTime>
+    </File>
+    <File Include="Admin/styles.css">
+      <publishTime>05/01/2024 01:31:42</publishTime>
+    </File>
+    <File Include="Admin/user-icon.png">
+      <publishTime>01/15/2024 16:48:25</publishTime>
+    </File>
+    <File Include="Bg/car1.jpg">
+      <publishTime>01/14/2024 10:06:05</publishTime>
+    </File>
+    <File Include="Bg/car13.jpg">
+      <publishTime>04/30/2024 21:05:49</publishTime>
+    </File>
+    <File Include="Bg/car3.jpg">
+      <publishTime>01/14/2024 10:01:06</publishTime>
+    </File>
+    <File Include="Bg/car4.jpg">
+      <publishTime>01/14/2024 09:42:23</publishTime>
+    </File>
+    <File Include="Bg/car5.jpg">
+      <publishTime>01/14/2024 10:03:31</publishTime>
+    </File>
+    <File Include="bin/CarRentWeb.dll">
+      <publishTime>08/27/2024 15:26:05</publishTime>
+    </File>
+    <File Include="bin/CarRentWeb.pdb">
+      <publishTime>08/27/2024 15:26:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>09/05/2018 16:10:50</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>08/08/2018 12:18:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe.config">
+      <publishTime>08/08/2018 12:18:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>08/08/2018 12:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>12/05/2017 09:36:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Managed.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/08/2018 12:09:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Win32.Primitives.dll">
+      <publishTime>11/05/2016 18:55:32</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>11/05/2016 18:55:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/16/2018 03:29:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Console.dll">
+      <publishTime>11/05/2016 18:55:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.DiagnosticSource.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.FileVersionInfo.dll">
+      <publishTime>11/05/2016 18:55:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>11/05/2016 18:55:52</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Globalization.Calendars.dll">
+      <publishTime>11/05/2016 18:56:02</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.Compression.ZipFile.dll">
+      <publishTime>11/05/2016 18:56:04</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>11/05/2016 18:56:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Http.dll">
+      <publishTime>11/05/2016 18:56:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Net.Sockets.dll">
+      <publishTime>11/05/2016 18:56:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/16/2018 03:29:44</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll">
+      <publishTime>11/05/2016 18:57:00</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Algorithms.dll">
+      <publishTime>11/05/2016 18:57:14</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Encoding.dll">
+      <publishTime>11/05/2016 18:57:08</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.Primitives.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Security.Cryptography.X509Certificates.dll">
+      <publishTime>11/05/2016 18:57:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/05/2016 18:57:20</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Threading.Tasks.Extensions.dll">
+      <publishTime>11/05/2016 18:57:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.ValueTuple.dll">
+      <publishTime>11/05/2016 18:57:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.ReaderWriter.dll">
+      <publishTime>11/05/2016 18:57:36</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XmlDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.dll">
+      <publishTime>11/05/2016 18:57:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Xml.XPath.XDocument.dll">
+      <publishTime>11/05/2016 18:57:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>08/08/2018 12:18:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>08/08/2018 12:09:46</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/08/2018 05:38:48</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/08/2018 12:18:16</publishTime>
+    </File>
+    <File Include="Booking.aspx">
+      <publishTime>05/01/2024 01:57:22</publishTime>
+    </File>
+    <File Include="Brands/ferrari-logo.png">
+      <publishTime>01/13/2024 20:50:46</publishTime>
+    </File>
+    <File Include="Brands/ford-logo.png">
+      <publishTime>01/13/2024 20:50:46</publishTime>
+    </File>
+    <File Include="Brands/hyundai-logo.png">
+      <publishTime>01/13/2024 20:37:24</publishTime>
+    </File>
+    <File Include="Brands/lamborghini-logo.png">
+      <publishTime>01/13/2024 20:50:46</publishTime>
+    </File>
+    <File Include="Brands/nissan-logo.png">
+      <publishTime>01/13/2024 20:37:25</publishTime>
+    </File>
+    <File Include="Brands/suzuki-logo.png">
+      <publishTime>01/13/2024 20:50:46</publishTime>
+    </File>
+    <File Include="CarDetails.aspx">
+      <publishTime>05/01/2024 12:15:29</publishTime>
+    </File>
+    <File Include="Cars/face.jpg">
+      <publishTime>04/05/2024 20:00:19</publishTime>
+    </File>
+    <File Include="Cars/honda-logo.png">
+      <publishTime>04/30/2024 21:39:07</publishTime>
+    </File>
+    <File Include="Cars/hyundai.png">
+      <publishTime>04/10/2024 03:27:46</publishTime>
+    </File>
+    <File Include="Cars/KIA.png">
+      <publishTime>04/10/2024 03:27:46</publishTime>
+    </File>
+    <File Include="Cars/mahindra.png">
+      <publishTime>04/10/2024 03:27:46</publishTime>
+    </File>
+    <File Include="Cars/maruti-altok10.jpg">
+      <publishTime>01/19/2024 19:04:10</publishTime>
+    </File>
+    <File Include="Cars/maruti-baleno.jpg">
+      <publishTime>01/19/2024 19:13:58</publishTime>
+    </File>
+    <File Include="Cars/maruti-brezza.jpg">
+      <publishTime>01/19/2024 19:13:58</publishTime>
+    </File>
+    <File Include="Cars/maruti-dzire.jpg">
+      <publishTime>01/19/2024 19:14:06</publishTime>
+    </File>
+    <File Include="Cars/shortCar10-1.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/shortCar10.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/shortCar2.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/shortCar3.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/shortCar4.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/shortCar5.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/shortCar6.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/shortCar7.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/shortCar8.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/shortCar9.png">
+      <publishTime>01/13/2024 02:01:29</publishTime>
+    </File>
+    <File Include="Cars/suzuki.png">
+      <publishTime>04/05/2024 21:07:35</publishTime>
+    </File>
+    <File Include="Cars/tata.png">
+      <publishTime>04/10/2024 03:27:46</publishTime>
+    </File>
+    <File Include="Cars/toyota.png">
+      <publishTime>04/10/2024 03:27:46</publishTime>
+    </File>
+    <File Include="Car_Images/HON_CTY_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HON_CTY_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HON_CTY_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HON_CTY_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HON_CTY_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_CR_1.jpg">
+      <publishTime>04/30/2024 23:30:39</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_CR_2.jpg">
+      <publishTime>04/30/2024 23:30:39</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_CR_3.jpg">
+      <publishTime>04/30/2024 23:30:40</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_CR_4.jpg">
+      <publishTime>04/30/2024 23:30:41</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_CR_5.jpg">
+      <publishTime>04/30/2024 23:30:41</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_I20_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_I20_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_I20_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_I20_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_I20_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_SAN_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_SAN_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_SAN_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_SAN_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_SAN_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_VER_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_VER_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_VER_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_VER_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/HYN_VER_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_CAR_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_CAR_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_CAR_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_CAR_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_CAR_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_SEL_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_SEL_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_SEL_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_SEL_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/KIA_SEL_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_SCO_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_SCO_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_SCO_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_SCO_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_SCO_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_XUV_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_XUV_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_XUV_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_XUV_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAH_XUV_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BAL_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BAL_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BAL_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BAL_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BAL_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BRE_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BRE_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BRE_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BRE_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_BRE_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_DZI_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_DZI_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_DZI_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_DZI_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_DZI_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_ERT_1.jpg">
+      <publishTime>04/30/2024 23:30:42</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_ERT_2.jpg">
+      <publishTime>04/30/2024 23:30:43</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_ERT_3.jpg">
+      <publishTime>04/30/2024 23:30:43</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_ERT_4.jpg">
+      <publishTime>04/30/2024 23:30:44</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_ERT_5.jpg">
+      <publishTime>04/30/2024 23:30:45</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_SWF_1.jpg">
+      <publishTime>04/30/2024 23:30:45</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_SWF_2.jpg">
+      <publishTime>04/30/2024 23:30:46</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_SWF_3.jpg">
+      <publishTime>04/30/2024 23:30:46</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_SWF_4.jpg">
+      <publishTime>04/30/2024 23:30:47</publishTime>
+    </File>
+    <File Include="Car_Images/MAR_SWF_5.jpg">
+      <publishTime>04/30/2024 23:30:48</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_ALT_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_ALT_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_ALT_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_ALT_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_ALT_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_HAR_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_HAR_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_HAR_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_HAR_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_HAR_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_SAF_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_SAF_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_SAF_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_SAF_4.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_SAF_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_TIA_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_TIA_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_TIA_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_TIA_5.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TATA_TIA_6.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/Test.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/Test2.jpg">
+      <publishTime>04/10/2024 03:16:40</publishTime>
+    </File>
+    <File Include="Car_Images/Test3.jpg">
+      <publishTime>04/10/2024 03:16:40</publishTime>
+    </File>
+    <File Include="Car_Images/Test4.jpg">
+      <publishTime>04/10/2024 03:16:40</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_COR_1.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_COR_2.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_COR_3.jpg">
+      <publishTime>04/09/2024 21:56:31</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_COR_4.jpg">
+      <publishTime>04/09/2024 21:56:32</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_COR_5.jpg">
+      <publishTime>04/09/2024 21:56:32</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_INN_1.jpg">
+      <publishTime>04/09/2024 21:56:32</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_INN_2.jpg">
+      <publishTime>04/09/2024 21:56:32</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_INN_3.jpg">
+      <publishTime>04/09/2024 21:56:32</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_INN_4.jpg">
+      <publishTime>04/09/2024 21:56:32</publishTime>
+    </File>
+    <File Include="Car_Images/TYT_INN_5.jpg">
+      <publishTime>04/09/2024 21:56:32</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>05/01/2024 21:02:07</publishTime>
+    </File>
+    <File Include="css/about.css">
+      <publishTime>05/01/2024 02:54:20</publishTime>
+    </File>
+    <File Include="css/Booking.css">
+      <publishTime>05/01/2024 02:54:28</publishTime>
+    </File>
+    <File Include="css/Home.css">
+      <publishTime>05/01/2024 02:53:34</publishTime>
+    </File>
+    <File Include="css/otp.css">
+      <publishTime>05/01/2024 00:18:48</publishTime>
+    </File>
+    <File Include="css/Payment.css">
+      <publishTime>04/07/2024 17:28:28</publishTime>
+    </File>
+    <File Include="css/profile.css">
+      <publishTime>05/01/2024 02:54:56</publishTime>
+    </File>
+    <File Include="css/styles.css">
+      <publishTime>05/01/2024 19:59:11</publishTime>
+    </File>
+    <File Include="Feedback.aspx">
+      <publishTime>05/01/2024 22:33:21</publishTime>
+    </File>
+    <File Include="footer.html">
+      <publishTime>04/09/2024 02:09:37</publishTime>
+    </File>
+    <File Include="forgotPassword.aspx">
+      <publishTime>05/01/2024 12:16:28</publishTime>
+    </File>
+    <File Include="HomePage.aspx">
+      <publishTime>05/01/2024 12:16:47</publishTime>
+    </File>
+    <File Include="images/about.jpg">
+      <publishTime>04/30/2024 22:06:31</publishTime>
+    </File>
+    <File Include="images/about_bg.jpeg">
+      <publishTime>04/10/2024 02:32:15</publishTime>
+    </File>
+    <File Include="images/alllogo2.png">
+      <publishTime>12/09/2023 01:16:51</publishTime>
+    </File>
+    <File Include="images/arrl.png">
+      <publishTime>01/14/2024 12:16:58</publishTime>
+    </File>
+    <File Include="images/arrr.png">
+      <publishTime>01/14/2024 12:16:57</publishTime>
+    </File>
+    <File Include="images/bgcar2.jpg">
+      <publishTime>12/09/2023 01:16:51</publishTime>
+    </File>
+    <File Include="images/bgcar4.png">
+      <publishTime>01/12/2024 19:13:37</publishTime>
+    </File>
+    <File Include="images/bgcar9.png">
+      <publishTime>01/12/2024 19:25:27</publishTime>
+    </File>
+    <File Include="images/Bk_car.jpg">
+      <publishTime>04/07/2024 02:05:43</publishTime>
+    </File>
+    <File Include="images/car2.jpg">
+      <publishTime>12/09/2023 01:16:51</publishTime>
+    </File>
+    <File Include="images/car4 %281%29.jpg">
+      <publishTime>01/14/2024 09:42:30</publishTime>
+    </File>
+    <File Include="images/car4.webp">
+      <publishTime>04/30/2024 20:28:42</publishTime>
+    </File>
+    <File Include="images/clock.png">
+      <publishTime>04/06/2024 15:48:57</publishTime>
+    </File>
+    <File Include="images/down_arrow.png">
+      <publishTime>02/19/2024 01:40:36</publishTime>
+    </File>
+    <File Include="images/fb.png">
+      <publishTime>12/09/2023 01:16:51</publishTime>
+    </File>
+    <File Include="images/icons8-arrow-50 %281%29.png">
+      <publishTime>01/13/2024 21:18:01</publishTime>
+    </File>
+    <File Include="images/icons8-arrow-50.png">
+      <publishTime>01/13/2024 21:18:01</publishTime>
+    </File>
+    <File Include="images/icons8-facebook-48%281%29.png">
+      <publishTime>01/12/2024 21:31:32</publishTime>
+    </File>
+    <File Include="images/icons8-instagram-48.png">
+      <publishTime>01/12/2024 21:31:32</publishTime>
+    </File>
+    <File Include="images/icons8-twitter-48.png">
+      <publishTime>01/12/2024 21:31:32</publishTime>
+    </File>
+    <File Include="images/icons8-whatsapp-48.png">
+      <publishTime>01/12/2024 21:31:32</publishTime>
+    </File>
+    <File Include="images/icons8-youtube-48.png">
+      <publishTime>01/12/2024 21:31:32</publishTime>
+    </File>
+    <File Include="images/insta.png">
+      <publishTime>12/09/2023 01:16:51</publishTime>
+    </File>
+    <File Include="images/lock-icon.png">
+      <publishTime>12/09/2023 01:16:51</publishTime>
+    </File>
+    <File Include="images/Logos/americanexpress.png">
+      <publishTime>04/07/2024 16:17:34</publishTime>
+    </File>
+    <File Include="images/Logos/mastercard.png">
+      <publishTime>04/07/2024 16:17:34</publishTime>
+    </File>
+    <File Include="images/Logos/upi.png">
+      <publishTime>04/07/2024 16:17:34</publishTime>
+    </File>
+    <File Include="images/Logos/visa.png">
+      <publishTime>04/07/2024 16:17:34</publishTime>
+    </File>
+    <File Include="images/logout.png">
+      <publishTime>01/18/2024 16:34:10</publishTime>
+    </File>
+    <File Include="images/petrol.png">
+      <publishTime>02/19/2024 18:38:40</publishTime>
+    </File>
+    <File Include="images/profile_pic.png">
+      <publishTime>04/30/2024 23:08:49</publishTime>
+    </File>
+    <File Include="images/search.png">
+      <publishTime>02/19/2024 17:23:17</publishTime>
+    </File>
+    <File Include="images/shortCar2.png">
+      <publishTime>01/13/2024 01:46:30</publishTime>
+    </File>
+    <File Include="images/twit.png">
+      <publishTime>12/09/2023 01:16:51</publishTime>
+    </File>
+    <File Include="images/user-icon.png">
+      <publishTime>01/07/2024 18:56:45</publishTime>
+    </File>
+    <File Include="images/wa.png">
+      <publishTime>12/09/2023 01:16:51</publishTime>
+    </File>
+    <File Include="images/yellowcar.png">
+      <publishTime>02/19/2024 18:38:40</publishTime>
+    </File>
+    <File Include="images/yellowmodel.png">
+      <publishTime>04/07/2024 01:01:08</publishTime>
+    </File>
+    <File Include="images/yellowrupee.png">
+      <publishTime>02/19/2024 18:38:40</publishTime>
+    </File>
+    <File Include="images/yellowseat.png">
+      <publishTime>02/19/2024 18:38:40</publishTime>
+    </File>
+    <File Include="images/yellow_cal.png">
+      <publishTime>04/10/2024 04:08:33</publishTime>
+    </File>
+    <File Include="images/yellow_license.png">
+      <publishTime>04/10/2024 04:08:33</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>05/01/2024 12:13:01</publishTime>
+    </File>
+    <File Include="js/delete.js">
+      <publishTime>05/01/2024 16:37:11</publishTime>
+    </File>
+    <File Include="js/logout.js">
+      <publishTime>05/01/2024 01:44:50</publishTime>
+    </File>
+    <File Include="js/navbar_handle.js">
+      <publishTime>04/05/2024 18:50:05</publishTime>
+    </File>
+    <File Include="js/otp.js">
+      <publishTime>04/07/2024 17:14:46</publishTime>
+    </File>
+    <File Include="js/Payment.js">
+      <publishTime>04/07/2024 17:27:28</publishTime>
+    </File>
+    <File Include="js/script.js">
+      <publishTime>04/06/2024 21:45:35</publishTime>
+    </File>
+    <File Include="js/services.js">
+      <publishTime>04/04/2024 01:11:18</publishTime>
+    </File>
+    <File Include="js/slideshow.js">
+      <publishTime>04/09/2024 21:10:24</publishTime>
+    </File>
+    <File Include="js/try.js">
+      <publishTime>04/30/2024 21:05:56</publishTime>
+    </File>
+    <File Include="otp.aspx">
+      <publishTime>05/02/2024 02:30:47</publishTime>
+    </File>
+    <File Include="Payment.aspx">
+      <publishTime>05/01/2024 12:17:03</publishTime>
+    </File>
+    <File Include="Profile.aspx">
+      <publishTime>05/01/2024 12:17:18</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>05/01/2024 12:17:34</publishTime>
+    </File>
+    <File Include="rides.aspx">
+      <publishTime>05/01/2024 12:17:46</publishTime>
+    </File>
+    <File Include="Search.aspx">
+      <publishTime>05/01/2024 16:59:09</publishTime>
+    </File>
+    <File Include="Vid/WheelsForRent.mp4">
+      <publishTime>04/10/2024 02:58:25</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/27/2024 15:26:08</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

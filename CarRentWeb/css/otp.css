@@ -1,0 +1,72 @@
+﻿/* Overall CSS for the form */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+form {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 400px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles for input fields */
+input[type="text"],
+input[type="password"],
+input[type="number"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+}
+
+/* Styles for the submit button */
+#btnSubmit {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-bottom: 15px;
+}
+
+    #btnSubmit:hover {
+        background-color: #45a049;
+    }
+
+
+
+
+
+/* Styles for labels */
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+#lblMessage {
+    color: #ff0000;
+    margin-top: 5px;
+    font-style: italic;
+}
+
+#timer {
+    margin-bottom: 20px;
+    color: red;
+}
+
+#txtOTP {
+    margin-top: 15px;
+}

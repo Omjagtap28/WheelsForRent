@@ -1,0 +1,1121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: white;
+    color: black;
+    height: 10vh;
+    width: 100%;
+    padding-bottom: 90px;
+    box-sizing: border-box;
+    border-bottom: 2px solid #03045E;
+}
+
+.nav1 ul {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+}
+
+.ul2 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-content: space-between;
+    width: 50%;
+    justify-content: space-around;
+}
+
+
+.nav1 ul li {
+    display: inline;
+    list-style: none;
+    box-sizing: border-box;
+    padding: 0px 30px;
+    color: black;
+}
+
+.ul2 li {
+    display: inline;
+    list-style: none;
+    box-sizing: border-box;
+    padding: 0px 30px;
+    color: black;
+    border: 2px solid white;
+    padding: 7px;
+}
+
+    .ul2 li a img {
+        height: 20px;
+    }
+
+    .ul2 li:hover {
+        transition-delay: 0s;
+        transition-timing-function: ease-out;
+        border: 2px solid #0BB5FF;
+        box-sizing: border-box;
+    }
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: medium;
+}
+
+#forgot_password {
+    margin: 20px 0px;
+}
+
+.nav1 {
+    /*padding-bottom: 20px;*/
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+
+.nav2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+/*box for link that is selected*/
+
+
+.highlight-homepage {
+    border: 2px solid #0BB5FF !important; /* Add !important to override other styles */
+}
+/* Container -------------*/
+.BackgroundContainer {
+    transition: background-image 0.5s ease;
+}
+
+.Container {
+    background-image: url('/Bg/car4.jpg');
+    background-repeat: no-repeat;
+    background-color: white;
+    height: 79vh;
+    width: 100%;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    transition: background-image 0.5s ease;
+}
+
+.Logo {
+    position: relative;
+    left: 45px;
+    bottom: 0px;
+    box-sizing: border-box;
+}
+
+.Window {
+    background-color: transparent;
+    color: #03045E;
+    height: 65vh;
+    width: 28vw;
+    box-sizing: border-box;
+    position: relative;
+    margin-left: 4vw;
+}
+
+.text {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    color: white;
+    height: 14vh;
+    width: 52vw;
+    position: relative;
+    box-sizing: border-box;
+    margin: 0px 0px 46vh 2vw;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+    .text p {
+        color: white;
+        font-size: 20px;
+        font-weight: bold;
+    }
+
+.radios {
+    width: 75%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.radio {
+    width: 40%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.buttons {
+    background-color: transparent;
+    height: 50px;
+    width: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+#b1 {
+    background-color: transparent;
+    background-image: url("/images/arrl.png");
+    height: 30px;
+    width: 30px;
+}
+
+#b2 {
+    background-color: transparent;
+    background-image: url("/images/arrr.png");
+    height: 30px;
+    width: 30px;
+}
+
+/*Container 2 ------------------------*/
+/* Container 2 ------------------------*/
+
+/* Add this CSS to your existing styles.css or in a new style block */
+.footer {
+    background-color: #03045E; /* Set the background color as needed */
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.Logos {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.logo img {
+    height: 30px; /* Adjust the height as needed */
+    width: auto; /* Adjust the width as needed */
+    margin-right: 10px; /* Add margin to the right of each image */
+}
+
+.text2 {
+    font-size: 18px; /* Adjust the font size as needed */
+}
+
+
+/*----------------------------------------------------------------------------------AboutUs page*/
+.about-page {
+    background-image: url("/images/bgcar2.jpg");
+    height: 100vh;
+    width: 100vw;
+}
+
+
+/*
+------------------------------------login page
+*/
+.Window {
+    height: 369px;
+    border-radius: 8px;
+    /*box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);*/
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    color: #03045E;
+}
+
+
+.containerJ {
+    max-width: 400px;
+    margin: auto;
+    padding: 20px 35px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border: 2px solid #0B6AB0;
+    color: #03045E;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: #03045E;
+}
+
+button {
+    background-color: #0BB5FF;
+    color: white;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border: 2px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    button:hover {
+        background-color: rgba(254, 199, 72, 0.509);
+    }
+
+.loginButton {
+    background-color: rgb(254, 200, 72);
+    color: white;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#Register_or_Login {
+    background-color: #C0C0C0;
+    color: white;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border: 2px solid black; /* Add this line for the black border */
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    #Register_or_Login:hover {
+        background-color: #D8D8D8;
+        /* You can also customize the style on hover if needed */
+    }
+
+#formTitle {
+    text-align: center;
+}
+
+/* login ends here */
+/*
+hide unhide login form */
+.hidden {
+    display: none;
+}
+
+
+
+/* ---------------------------------------------------------------------------------------Index.aspx */
+
+/* Add this CSS to your existing styles.css or in a new style block */
+/* CSS for Featured Cars Section */
+
+.featured-cars {
+    margin-top: 50px;
+}
+
+    .featured-cars h2 {
+        font-size: 2.5rem;
+        color: #333;
+        text-align: center;
+        margin-bottom: 30px;
+        text-decoration: underline;
+    }
+
+.carousel-container {
+    display: flex;
+    justify-content: center;
+}
+
+.carousel {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr); /* Four cars per row */
+    grid-gap: 20px;
+}
+
+.car {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+    .car:hover {
+        transform: scale(1.05); /* Scale up slightly on hover */
+    }
+
+    .car img {
+        width: 100%;
+        border-radius: 8px;
+    }
+
+    .car h3 {
+        margin-top: 10px;
+        font-size: 1.2rem;
+        color: #333;
+    }
+
+    .car p {
+        margin-top: 5px;
+        font-size: 1rem;
+        color: #666;
+    }
+
+    .car a {
+        display: block;
+        margin-top: 10px;
+        text-decoration: none;
+        color: #0BB5FF;
+    }
+
+        .car a:hover {
+            text-decoration: underline;
+        }
+
+
+/* CSS for Our Services Section */
+
+/* CSS for Services Section */
+
+.services {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+    .services h2 {
+        font-size: 2.5rem;
+        color: #333;
+        text-align: center;
+        margin-bottom: 30px;
+        text-decoration: underline;
+    }
+
+    .services ul {
+        list-style-type: none;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        margin-left: 20px;
+    }
+
+        .services ul li {
+            font-size: 1.2rem;
+            margin-bottom: 20px;
+            padding-left: 20px;
+            position: relative;
+        }
+
+            .services ul li::before {
+                content: "\2022"; /* Bullet character */
+                color: #0BB5FF; /* Bullet color */
+                position: absolute;
+                left: 0;
+            }
+
+            .services ul li:last-child {
+                margin-bottom: 0;
+            }
+
+            /* Hover effect */
+            .services ul li:hover {
+                transform: scale(1.05);
+                transition: transform 0.3s ease;
+                color: #0BB5FF;
+            }
+
+
+
+
+/* CSS for Testimonials Section */
+
+/* CSS for Testimonials Section */
+.testimonials {
+    margin-top: 50px;
+    margin-bottom: 20px;
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Display two testimonials per row */
+    gap: 30px; /* Adjust the gap between testimonials */
+}
+
+    .testimonials h2 {
+        font-size: 2.5rem;
+        color: #333;
+        text-align: center;
+        margin-bottom: 30px;
+        text-decoration: underline;
+    }
+
+.testimonial {
+    display: flex;
+    flex-direction: column;
+}
+
+.testimonial-content {
+    display: flex;
+    align-items: center;
+}
+
+.testimonial-image {
+    width: 120px; /* Adjust width as needed */
+    height: 120px; /* Adjust height as needed */
+    overflow: hidden;
+    position: relative;
+    transform: skewY(-20deg); /* Skew the container to create a parallelogram */
+}
+
+    .testimonial-image img {
+        width: 150%; /* Increase width to cover the skewed area */
+        height: auto;
+        transform: skewY(20deg); /* Counter-skew the image to keep it straight */
+        position: relative;
+        left: -25%; /* Adjust the left position to center the image */
+    }
+
+.testimonial-details {
+    flex-grow: 1;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    .testimonial-details h3 {
+        font-size: 1.5rem;
+        margin-bottom: 10px;
+    }
+
+    .testimonial-details p {
+        font-size: 1.2rem;
+        font-style: italic;
+        color: #888;
+        margin-top: 10px;
+    }
+
+
+/* Add styling for the buttons */
+button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 350px;
+    border-radius: 4px;
+}
+
+    button:hover {
+        background-color: #45a049;
+    }
+
+/*Brands of the cars*/
+/* Add this CSS for the car brands section */
+.car-brands {
+    background-color: #fff; /* Set the background color as needed */
+    padding: 20px;
+    text-align: center;
+}
+
+    .car-brands h2 {
+        font-size: 2.5rem;
+        color: #333;
+        text-align: center;
+        margin-bottom: 30px;
+        text-decoration: underline;
+    }
+
+.brands-container {
+    display: flex;
+    justify-content: center;
+    max-width: 800px;
+    margin: auto;
+}
+
+.brand {
+    text-align: center;
+    margin: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+    .brand img {
+        max-width: 150px; /* Set the maximum width for all images */
+        height: auto;
+        border: 2px solid #333;
+        border-radius: 8px;
+        margin-bottom: 10px;
+        transition: transform 0.3s ease-in-out;
+    }
+
+        .brand img:hover {
+            border-color: rgb(254,200,72);
+        }
+
+    .brand p {
+        font-size: 14px;
+        color: #666;
+    }
+
+    /* Add a hover effect */
+    .brand:hover {
+        transform: scale(1.1);
+    }
+
+
+
+/*feedback form*/
+/* -----------------------------------------------------------------Feedback.aspx */
+.Conatiner_f input,
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    box-sizing: border-box;
+}
+
+.Feedback_container {
+    background-image: linear-gradient(to right top, #0bb5ff, #89c4ff, #c0d4ff, #e5e8ff, #ffffff);
+    height: 79vh;
+    width: 100%;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.Container_f {
+    width: 700px;
+    margin: auto;
+    padding: 20px 35px;
+    /* border: 1px solid #ccc; */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: white;
+    border: 2px solid #0B6AB0;
+    color: #03045E;
+    height: 400px;
+    min-height: 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+#submitFeedbackButton {
+    background-color: #0BB5FF;
+    color: white;
+    padding: 10px 15px;
+    margin: 8px 0;
+    border: 2px solid black;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    #submitFeedbackButton:hover {
+        background-color: rgba(254, 199, 72, 0.509);
+    }
+
+
+
+
+/*forgot password*/
+#submitEmailButton, #verifyAnswerButton, #resetPasswordButton {
+    background-color: #0bb5ff;
+    color: white;
+    border: 2px solid black;
+}
+
+
+
+
+/* Add this CSS to your existing styles.css or in a new style block ------------------SearchCars.aspx*/
+
+.ServicesContainer {
+    background-repeat: no-repeat;
+    background-color: white;
+    min-height: 79vh;
+    width: 100%;
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    transition: background-image 0.5s ease;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+
+
+/* Update the CSS to position the description on the right side of the car image */
+#SearchForm {
+    width: 100%;
+}
+
+.searches {
+    margin-top: 20px;
+}
+
+.car-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.car-item {
+    width: calc(50% - 20px); /* Adjust width to fit two items in a row */
+    margin-bottom: 20px;
+    display: flex; /* Use flexbox for layout */
+    align-items: center; /* Center items vertically */
+    box-sizing: border-box;
+    padding: 10px;
+    position: relative;
+    cursor: pointer;
+    /*border: 2px solid grey;*/
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    transition: transform 0.3s ease-in-out; /* Smooth transition */
+}
+
+    .car-item a {
+        width: 50%;
+    }
+
+    .car-item:hover {
+        transform: scale(1.05); /* Scale effect on hover */
+    }
+
+    .car-item img {
+        width: 90%;
+        height: auto;
+        object-fit: cover;
+        border-radius: 8px;
+        margin-right: 10px; /* Add margin to separate image from description */
+    }
+
+
+.car-description {
+    height: 200px;
+    width: 260px;
+    /*border: 2px solid lightblue;
+    border-radius: 10px;
+    background-color: white;*/
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+}
+
+    .car-description p {
+        white-space: nowrap;
+    }
+
+    .car-description img {
+        height: 20px;
+        width: 20px;
+    }
+
+.car-summary {
+    display: flex;
+    flex-direction: row;
+}
+
+.car-summary-link {
+    display: flex;
+    flex-direction: row;
+    color: blue;
+    text-decoration: underline;
+    margin-left: 60%;
+    white-space: nowrap;
+}
+
+/* search area in search aspx*/
+
+#search-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0% 0%;
+}
+
+#txtSearch {
+}
+
+#btnSearch {
+    height: 95%;
+    width: 10%;
+    background-color: #0BB5FF;
+    color: white;
+}
+
+#all_cars {
+    font-size: xx-large;
+    margin-bottom: 20px;
+}
+
+
+
+/* ---------------------------------------------------------------------------------CarDetails.aspx pages */
+
+.CarDetailsContainer {
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+}
+
+    .CarDetailsContainer h2 {
+        color: #03045E; /* Set the heading color */
+        font-size: 28px; /* Increase heading font size */
+        margin-bottom: 20px; /* Add margin below heading */
+    }
+
+.car-details {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 15px;
+    padding: 35px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: 2px solid #0bb5ff;
+    margin-top: 25px;
+}
+
+#Car {
+    margin-bottom: 10px;
+    font-size: 36px;
+    color: #0bb5ff;
+    text-align: left;
+    margin-left: -75%;
+}
+
+#lblPrice {
+    margin-bottom: 10px; /* Add margin between labels */
+    font-size: 40px;
+    color: #0bb5ff;
+}
+
+.details {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 300px;
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.detail {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+    .detail label {
+        margin-right: 10px;
+        color: #0bb5ff;
+    }
+
+        .detail label::before {
+            content: '\2022'; /* Bullet character */
+            color: #f7c948; /* Bullet color */
+            font-weight: bold;
+            margin-right: 5px;
+        }
+
+
+.price-section {
+    text-align: center;
+    margin-top: 25px;
+}
+
+    .price-section label {
+        margin-bottom: 10px;
+        font-size: 18px;
+        color: grey;
+    }
+
+.btnRentNow {
+    background-color: #0BB5FF;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+    margin-top: 10px;
+    border: 2px solid black;
+}
+
+    .btnRentNow:hover {
+        background-color: #0A94D6;
+    }
+
+.error-message {
+    color: #721c24;
+    padding: 10px;
+    background-color: #f8d7da;
+    margin-top: 10px;
+}
+
+
+
+/*FOr image container of slideshow -------*/
+.img_container {
+    position: relative;
+    width: 100%;
+    height: 400px; /* Adjust height as needed */
+    overflow: hidden; /* Keep overflow property here */
+}
+
+    .img_container .slideshow-container {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        overflow: hidden; /* Keep overflow property here */
+    }
+
+    .img_container .mySlides {
+        width: 100%;
+        height: 100%;
+        display: flex; /* Use flexbox to center images vertically */
+        justify-content: center; /* Center horizontally */
+        align-items: center; /* Center vertically */
+    }
+
+        .img_container .mySlides img {
+            width: auto; /* Use auto width to maintain aspect ratio */
+            max-height: 100%; /* Set max height to 100% */
+            object-fit: contain; /* Use contain to fit entire image within container */
+        }
+
+
+
+
+
+
+
+/*-------------RidesPage--------------------*/
+/* Reservation Container */
+/* Reservation Container */
+/* Adjusting colors of h2 */
+.upcoming-reservations h2,
+.reservation-history h2 {
+    color: #FF5733; /* Change the color to match your website color */
+    margin-bottom: 15px;
+    font-size: 2rem;
+}
+
+
+/* Styling for upcoming reservations */
+.upcoming-reservations {
+    margin-top: 20px;
+}
+
+/* Styling for old reservations */
+.reservation-history {
+    margin-top: 40px; /* Add more space between upcoming and old reservations */
+    border-top: 4px solid teal; /* Add a border between upcoming and old reservations */
+    padding-top: 20px; /* Add padding to the top to separate visually */
+}
+
+
+/* Individual Reservation Card */
+.reservation {
+    display: flex;
+    border: 2px solid #0BB5FF;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+    margin-bottom: 20px;
+}
+
+/* Reservation Image */
+.reservation-image {
+    flex-shrink: 0; /* Prevent image from growing */
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 30%;
+    margin-top: 20px;
+}
+
+    .reservation-image img {
+        max-width: 70%; /* Ensure the image does not exceed the width of its container */
+        max-height: 70%; /* Ensure the image does not exceed the height of its container */
+        height: auto; /* Maintain aspect ratio */
+        border-radius: 5px;
+    }
+
+
+/* Reservation Content */
+.reservation-content {
+    flex-grow: 1;
+}
+
+/* Reservation Title */
+.reservation h3 {
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #0BB5FF;
+}
+
+/* Reservation Details */
+.reservation p {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+/* Reservation Button */
+.reservation button {
+    display: block;
+    margin-top: 10px; /* Add space between button and content */
+    background-color: #0BB5FF;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+
+    .reservation button:hover {
+        background-color: #0A94D6;
+    }
+
+.middle {
+    height: 100px;
+    text-align: right;
+    background-color: lightcyan;
+}
+
+    .middle p {
+        margin-right: 300px;
+        color: red;
+        padding-top: 30px;
+        font-weight: bold;
+    }
+
+
+
+/*contact us page -----------------------------------------------------*/
+
+
+.Contactcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center content horizontally */
+    padding: 20px; /* Add padding for spacing */
+}
+
+.upper-part {
+    width: 100%; /* Ensure full width */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; /* Space items evenly horizontally */
+    /*margin-bottom: 20px;  /*Add margin at the bottom */
+    border: 2px solid #0B6AB0;
+    /* color: #03045E; */
+}
+
+.upper-left,
+.upper-right {
+    width: 48%; /* Adjust width for each section */
+    padding: 20px; /* Add padding for spacing */
+    background-color: #f2f2f2; /* Set background color */
+}
+
+    .upper-left h2 {
+        color: #03045E;
+    }
+
+    .upper-right h2 {
+        color: #03045E;
+    }
+
+
+
+.contactBtnSubmit {
+    display: flex;
+    flex-direction: row;
+}
+
+#btnSubmit {
+    margin-left: 60%;
+    background-color: #0BB5FF;
+    width: 40%;
+}
+
+    #btnSubmit:hover {
+        background-color: #47c5fc;
+    }
+
+.contact-details,
+.faq-item {
+    margin-bottom: 20px; /* Add margin at the bottom */
+}
+
+    .faq-item h3 span img {
+        height: 20px;
+        width: 20px;
+        margin-top: 2px;
+    }
+
+.one-line {
+    display: flex; /* Change display to flex */
+    align-items: center; /* Align items vertically */
+}
+
+    .one-line label {
+        margin-right: 10px; /* Add margin between label and input */
+    }
+
+    .one-line input[type="text"] {
+        margin-right: 10px; /* Add margin between inputs */
+    }
+
+.question {
+    cursor: pointer;
+    color: #0bb5ff;
+}
+
+.answer {
+    display: none;
+}
+
+    .answer.active {
+        display: block;
+    }
+
+.lower-part {
+    width: 100%; /* Ensure full width */
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    margin-bottom: 20px; /* Add margin at the bottom */
+}
+
+iframe {
+    border: none;
+    width: 100%; /* Ensure full width */
+    height: 400px; /* Set iframe height */
+}
+/* --------------------------------------------------------------  Profile.aspx page */

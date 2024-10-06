@@ -1,0 +1,102 @@
+﻿body {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+}
+
+.about-container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow: auto;
+}
+
+.about_us {
+    width: 100%;
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+    padding: 20px;
+    color: white;
+    background-image: url(/images/about.jpg);
+}
+
+
+.black {
+    color: black; /* Set text color to white */
+    background-color: white;
+}
+
+
+.about_us h1 {
+    font-size: 2.5rem;
+    color: #0bb5ff;
+    margin-bottom: 20px;
+    text-align: center;
+    background-color: white;
+    padding: 10px 40%;
+}
+
+.about_us p {
+    font-size: 1rem;
+    /* color: black; */
+    margin-bottom: 15px;
+    text-align: center;
+    color: black;
+    margin: 22px 0px;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #0bb5ff;
+    margin-bottom: 20px;
+}
+
+.video-container {
+    text-align: center;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 2px;
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+
+    .video-container h3 {
+        color: #0bb5ff;
+        margin-bottom: 12px;
+    }
+
+    .video-container li {
+        text-align: left;
+        color: #0bb5ff;
+        margin-bottom: 4px;
+        border-radius: 15px;
+    }
+
+    .video-container p {
+        color: blue;
+        margin-bottom: 15px;
+    }
+
+.video {
+    max-width: 600px; /* Set maximum width for the video container */
+    margin: 0 auto; /* Center the video container horizontally */
+}
+
+    .video video {
+        max-width: 100%; /* Make the video responsive */
+        height: auto;
+        margin: 8px;
+    }
+
+.rental-process {
+    width: 580px;
+}

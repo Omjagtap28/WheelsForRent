@@ -1,0 +1,78 @@
+﻿.Home_Container {
+    /* padding: 0; */
+    background-color: #f8f8f8;
+    /* border-radius: 10px; */
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    /* margin: 20px auto; */
+    /* max-width: 800px; */
+    width: 100%;
+    height: 80vh;
+    background-image: url('/Bg/car4.jpg');
+}
+
+.welcome_email {
+    background-color: pink;
+    margin-bottom: 20px;
+    text-align: center;
+    height: 20%;
+    /* font-size: large; */
+}
+
+.Home_Container .welcome_email {
+    color: #333;
+    font-size: 50px;
+}
+
+    .Home_Container .welcome_email label {
+        font-weight: bold;
+    }
+
+.Home_Container .confirmationDiv {
+    text-align: center;
+    background-color: #dff0d8;
+    border: 1px solid #d0e9c6;
+    color: #3c763d;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#upcomingReservation {
+    margin-top: 20px;
+    background-color: #f0f0f0;
+}
+
+    #upcomingReservation h2, h2 {
+        margin-top: 20px;
+        font-size: 2.5rem;
+        color: #333;
+        text-align: center;
+        margin-bottom: 30px;
+        text-decoration: underline;
+    }
+
+
+/* Styling for welcome_email */
+.welcome_email {
+    background-color: rgba(255, 255, 255, 0.8); /* Transparent white background */
+    padding: 40px; /* Increased padding for larger size */
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    font-size: 24px; /* Increased font size */
+    font-weight: bold; /* Added bold font weight */
+}
+
+#view_more_link {
+    text-align: end;
+    margin-right: 45px;
+    color: purple;
+    text-decoration: underline;
+}
+
+
+/* Styling for upcoming reservation image */
+
+.reservation {
+    background-color: white;
+}

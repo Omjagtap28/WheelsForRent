@@ -1,0 +1,88 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-image: url('/images/Bk_car.jpg'); /* Add your background image URL here */
+    background-color: rgba(255, 255, 255, 0.8); /* Whitish background with opacity */
+    backdrop-filter: blur(5px); /* Apply a blur effect */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border: 2px solid #0B6AB0; /* Updated border color */
+    color: #03045E; /* Updated text color */
+}
+
+h2 {
+    margin-top: 0;
+    color: #03045E;
+    text-align: center;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+p {
+    color: teal;
+    font-size: 15px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="datetime-local"],
+textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.time-slots {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #0bb5ff;
+    border-radius: 5px;
+    background-color: #e6f7ff;
+}
+
+.time-slot {
+    margin-bottom: 5px;
+    color: #0bb5ff;
+}
+
+.btn-submit {
+    background-color: #0BB5FF;
+    color: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    position: relative;
+    margin-left: 25vw;
+}
+
+    .btn-submit:hover {
+        background-color: rgba(254, 199, 72, 0.509);
+    }
+
+.error-message {
+    color: red;
+    margin-top: 10px;
+}
