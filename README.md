@@ -29,6 +29,9 @@ This is a full-stack Car Rental Web Application built as an academic project. It
 - **Visual Studio 2022**: Used for backend development.
 - **SQL Server Management Studio**: Used for database management.
 
+### Important Note
+This Car Rental Web Application is optimized for use on desktop and laptop devices. While it provides a functional experience on mobile devices, the layout and design elements are best viewed on larger screens. We recommend accessing the application through a laptop or desktop for the best user experience.
+
 ## Installation
 To set up the project locally:
 
@@ -59,19 +62,16 @@ To set up the project locally:
 1. **User**: 
    - Navigate to the homepage.
    - Browse available cars, choose a rental period, and book a car.
-   - View and manage your bookings under the "My Bookings" section.
+   - View and manage your bookings under the "My Rides" section.
    
 2. **Admin**:
    - Log in as an administrator.
-   - Add new car listings, view all bookings, and manage user accounts via the admin panel.
+   - Add new car listings, view all bookings,Feedbacks,contact history and manage user accounts via the admin panel.
 
 ## Future Enhancements
 - Improve UI responsiveness for mobile devices.
 - Add additional features like payment gateway integration.
 - Implement a notification system for bookings.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any queries or issues, please contact:
